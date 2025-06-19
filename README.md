@@ -24,6 +24,8 @@ This section contains **GeeksForGeeks Java Programs**.
 | 10    | **Decision Making in Java**    | <img src="https://img.shields.io/badge/Java-%2300C853.svg?style=flat" /> |
 | 11    | **Java Switch Case statement** | <img src="https://img.shields.io/badge/Java-%2300C853.svg?style=flat" /> |
 
+<br><br>
+
 ---
 <br><br>
 
