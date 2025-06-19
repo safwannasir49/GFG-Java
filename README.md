@@ -5,7 +5,7 @@
 This section contains **GeeksForGeeks Java Programs**.
 
 ---
-
+<div align="center">
 ## 📘 List of Java Programs
 
 | 🔢 No. | Program Name                   | 🧠 Topic |
@@ -23,6 +23,8 @@ This section contains **GeeksForGeeks Java Programs**.
 | 11    | **Java Switch Case statement** | <img src="https://img.shields.io/badge/Java-%2300C853.svg?style=flat" /> |
 
 ---
+
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
